@@ -1,0 +1,5 @@
+wire left-6-bottomleft 0 0 0 -50
+wire left-6-topleft 0 -50 0 -100
+wire left-6-top 0 -100 50 -100
+wire left-6-middle 0 -50 50 -50
+done
